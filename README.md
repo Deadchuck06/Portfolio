@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects, skills, and journey in tech — with a growing interest in cybersecurity.
 
 ## 🚀 Live Link
-[https://yourname.vercel.app](https://yourname.vercel.app) *(replace with your actual link)*
+https://portfolio-drab-zeta-41.vercel.app/
 
 ## 🛠️ Tech Stack
 - HTML  
